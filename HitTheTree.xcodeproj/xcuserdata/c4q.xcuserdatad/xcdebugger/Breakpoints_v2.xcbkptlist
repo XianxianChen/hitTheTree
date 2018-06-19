@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HitTheTree/GameViewController.swift"
+            timestampString = "551131012.229183"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HitTheTree/GameViewController.swift"
+            timestampString = "551131012.230103"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HitTheTree/GameViewController.swift"
+            timestampString = "551131012.230572"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HitTheTree/GameViewController.swift"
+            timestampString = "551131012.23104"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "setupScene()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HitTheTree/GameViewController.swift"
+            timestampString = "551131012.231577"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "setupNode()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HitTheTree/GameViewController.swift"
+            timestampString = "551131012.2320499"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "setupSounds()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HitTheTree/GameViewController.swift"
+            timestampString = "551131012.2325161"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "GameViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HitTheTree.GameViewController.motionForce.getter : __C.SCNVector3"
+                  moduleName = "HitTheTree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/c4q/Desktop/IOSProjectsFolder/GroupProject/HitTheTree/HitTheTree/GameViewController.swift"
+                  timestampString = "550014888.186412"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HitTheTree.GameViewController.motionForce.setter : __C.SCNVector3"
+                  moduleName = "HitTheTree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/c4q/Desktop/IOSProjectsFolder/GroupProject/HitTheTree/HitTheTree/GameViewController.swift"
+                  timestampString = "550014888.188804"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HitTheTree.GameViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; HitTheTree.GameViewController"
+                  moduleName = "HitTheTree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/c4q/Desktop/IOSProjectsFolder/GroupProject/HitTheTree/HitTheTree/GameViewController.swift"
+                  timestampString = "550014888.190575"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "560">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HitTheTree.GameViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;HitTheTree.GameViewController&gt;"
+                  moduleName = "HitTheTree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/c4q/Desktop/IOSProjectsFolder/GroupProject/HitTheTree/HitTheTree/GameViewController.swift"
+                  timestampString = "550014888.1923029"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "516">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HitTheTree/GameViewController.swift"
+            timestampString = "551131012.233037"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "GameViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HitTheTree.GameViewController.sounds.getter : Swift.Dictionary&lt;Swift.String, __ObjC.SCNAudioSource&gt;"
+                  moduleName = "HitTheTree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/c4q/Desktop/IOSProjectsFolder/GroupProject/HitTheTree/HitTheTree/GameViewController.swift"
+                  timestampString = "550014888.199043"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HitTheTree.GameViewController.sounds.setter : Swift.Dictionary&lt;Swift.String, __ObjC.SCNAudioSource&gt;"
+                  moduleName = "HitTheTree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/c4q/Desktop/IOSProjectsFolder/GroupProject/HitTheTree/HitTheTree/GameViewController.swift"
+                  timestampString = "550014888.203076"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HitTheTree.GameViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; HitTheTree.GameViewController"
+                  moduleName = "HitTheTree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/c4q/Desktop/IOSProjectsFolder/GroupProject/HitTheTree/HitTheTree/GameViewController.swift"
+                  timestampString = "550014888.205192"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "696">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HitTheTree.GameViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;HitTheTree.GameViewController&gt;"
+                  moduleName = "HitTheTree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/c4q/Desktop/IOSProjectsFolder/GroupProject/HitTheTree/HitTheTree/GameViewController.swift"
+                  timestampString = "550014888.207408"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HitTheTree/GameViewController.swift"
+            timestampString = "551131012.2335171"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "physicsWorld(_:didBegin:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HitTheTree/GameViewController.swift"
+            timestampString = "551131012.233968"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "physicsWorld(_:didBegin:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HitTheTree/GameViewController.swift"
+            timestampString = "551131012.234391"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "physicsWorld(_:didBegin:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HitTheTree/GameViewController.swift"
+            timestampString = "551131012.234814"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "GameViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HitTheTree.GameViewController.motion.getter : HitTheTree.MotionHelper"
+                  moduleName = "HitTheTree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/c4q/Desktop/IOSProjectsFolder/GroupProject/HitTheTree/HitTheTree/GameViewController.swift"
+                  timestampString = "550014929.5301059"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HitTheTree.GameViewController.motion.setter : HitTheTree.MotionHelper"
+                  moduleName = "HitTheTree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/c4q/Desktop/IOSProjectsFolder/GroupProject/HitTheTree/HitTheTree/GameViewController.swift"
+                  timestampString = "550014929.532467"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HitTheTree.GameViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; HitTheTree.GameViewController"
+                  moduleName = "HitTheTree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/c4q/Desktop/IOSProjectsFolder/GroupProject/HitTheTree/HitTheTree/GameViewController.swift"
+                  timestampString = "550014929.535112"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HitTheTree.GameViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;HitTheTree.GameViewController&gt;"
+                  moduleName = "HitTheTree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/c4q/Desktop/IOSProjectsFolder/GroupProject/HitTheTree/HitTheTree/GameViewController.swift"
+                  timestampString = "550014929.544336"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
